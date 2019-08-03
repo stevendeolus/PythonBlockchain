@@ -46,7 +46,7 @@ ___
 | Project Lead: <br/> *Steven Deolus* | Bio |
 | ----------- | --- |
 | <img align="center" src="https://user-images.githubusercontent.com/45675867/62410076-b00e6a00-b595-11e9-8885-d09cb8fa91c3.png" width="80%" height="35%"> </br> </br> | Steven Deolus is a law student with a practical focus at the intersection of technology and the law. The areas of Steven’s studies and practical work includes copyright, trademarks, privacy law, media law, cybersecurity, emerging areas of intellectual property, and employment law. Additionally, Steven focuses on the legal implications and risk associated with disruptive technologies such as blockchain, virtual reality, and artificial intelligence. Steven uses his background of 12 years’ experience in the tech sector along with his immersive set of tech skills to support his pursuit of his passions at the intersection of technology and the law. Steven received his Bachelor of Arts from SUNY University at Buffalo in Political Science and is currently pursuing his Juris Doctor from Brooklyn Law School.  |
-| Linkedin: www.linkedin.com/in/8bitcoder  |  |
+| Linkedin: https://www.linkedin.com/in/8bitcoder  |  |
 
 <br/>
 <br/>
