@@ -53,16 +53,14 @@ ___
 
 | Project Contributor: *Sydney Abualy* | Bio |
 | ----------- | --- |
-| <img align="center" src="https://www.icrisat.org/wp-content/uploads/2017/05/image-pending.jpg" width="80%" height="35%"> </br> </br> | Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce interdum, leo a mattis vulputate, est erat ornare dui, vitae sagittis ante ipsum eget dui. Vivamus sed leo nec ante mattis aliquam. Proin aliquet aliquam justo, eget tempus nulla auctor a. In eleifend, nisl quis commodo tristique, metus ipsum varius libero, vitae sollicitudin sem arcu congue tortor. Nullam bibendum augue vel magna blandit consequat. Sed ut aliquam sapien. Nunc sed risus sed est hendrerit aliquam eget eu sem. Mauris lacinia nulla vitae nulla fringilla, in volutpat tellus faucibus. Pellentesque mattis metus sem,  |
+| <img align="center" src="https://www.icrisat.org/wp-content/uploads/2017/05/image-pending.jpg" width="200%" height="60%"> </br> </br> | Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce interdum, leo a mattis vulputate, est erat ornare dui, vitae sagittis ante ipsum eget dui. Vivamus sed leo nec ante mattis aliquam. Proin aliquet aliquam justo, eget tempus nulla auctor a. In eleifend, nisl quis commodo tristique, metus ipsum varius libero, vitae sollicitudin sem arcu congue tortor. Nullam bibendum augue vel magna blandit consequat. Sed ut aliquam sapien. Nunc sed risus sed est hendrerit aliquam eget eu sem. Mauris lacinia nulla vitae nulla fringilla, in volutpat tellus faucibus. Pellentesque mattis metus sem,  |
 | Linkedin: N/A  |  |
 
 <br/>
 <br/>
+
 | Project Contributor: *Claire Wasserman* | Bio |
 | ----------- | --- |
-| <img align="center" src="https://www.icrisat.org/wp-content/uploads/2017/05/image-pending.jpg" width="80%" height="35%"> </br> </br> | Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce interdum, leo a mattis vulputate, est erat ornare dui, vitae sagittis ante ipsum eget dui. Vivamus sed leo nec ante mattis aliquam. Proin aliquet aliquam justo, eget tempus nulla auctor a. In eleifend, nisl quis commodo tristique, metus ipsum varius libero, vitae sollicitudin sem arcu congue tortor. Nullam bibendum augue vel magna blandit consequat. Sed ut aliquam sapien. Nunc sed risus sed est hendrerit aliquam eget eu sem. Mauris lacinia nulla vitae nulla fringilla, in volutpat tellus faucibus. Pellentesque mattis metus sem,  |
+| <img align="center" src="https://www.icrisat.org/wp-content/uploads/2017/05/image-pending.jpg" width="200%" height="60%"> </br> </br> | Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce interdum, leo a mattis vulputate, est erat ornare dui, vitae sagittis ante ipsum eget dui. Vivamus sed leo nec ante mattis aliquam. Proin aliquet aliquam justo, eget tempus nulla auctor a. In eleifend, nisl quis commodo tristique, metus ipsum varius libero, vitae sollicitudin sem arcu congue tortor. Nullam bibendum augue vel magna blandit consequat. Sed ut aliquam sapien. Nunc sed risus sed est hendrerit aliquam eget eu sem. Mauris lacinia nulla vitae nulla fringilla, in volutpat tellus faucibus. Pellentesque mattis metus sem,  |
 | Linkedin: https://www.linkedin.com/in/claire-wasserman-87977214  |  |
 
-#### Project Contributor: 
-*Claire Wasserman*
-<br/>Linkedin: https://www.linkedin.com/in/claire-wasserman-87977214
