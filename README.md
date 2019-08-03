@@ -19,6 +19,8 @@ What we have provided here is a hands-on approach to learning the fundamentals o
 
 By building a proof of concept blockchain, students and legal practitioners will be better positioned to engage with their future clients and the legal issues of tomorrow. 
 
+## Curriculum 
+The currculum to build the open source code coming soon! 
 
 <!-- Footnotes themselves at the bottom. -->
 ## Notes
