@@ -3,7 +3,7 @@
 This is a simple blockchain for digital rights management made from approximately 300 lines of Python code. This code was created as a proof of concept for using blockchain for digital rights management. The code is not a business solution and is only for educational purposes.  
 
 # Live Demo
-Visit https://bluevioletunfortunatezettabyte-1.8bitc0der.repl.run/ or http://bit.ly/DRMLegal
+Visit https://bluevioletunfortunatezettabyte-1.8bitc0der.repl.run/
 
 _Instructions for the Demo are located in the instructions.md file_ 
 
