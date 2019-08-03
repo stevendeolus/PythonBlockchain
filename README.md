@@ -5,6 +5,8 @@ This is a simple blockchain for digital rights management made from approximatel
 # Live Demo
 Visit http://bit.ly/DRMLegal
 
+Instructions for the Demo are located in the instructions.md file. 
+
 # Project Introduction/Description
 
 As technology continues to disrupt and redefine industry and society, “practical technical knowledge needs to be integrated into many fields of education.”[^1] The legal field is no different. Lawyers in their roles as trusted advisors for clients, interpreters for experts, and translators for judges will be required to understand the underpinnings of technology at a basic level. The areas requiring these tech-savvy attorneys are vast -- “Network neutrality, privacy, government surveillance, self-driving cars, medical implants, Internet governance, cloud computing liability, ‘patent trolls,’ copyright and new media models, and algorithmic marketing, just to name a few.”[^2]
