@@ -5,7 +5,7 @@ This is a simple blockchain for digital rights management made from approximatel
 # Live Demo
 Visit https://bluevioletunfortunatezettabyte-1.8bitc0der.repl.run/ or http://bit.ly/DRMLegal
 
-Instructions for the Demo are located in the instructions.md file. 
+_Instructions for the Demo are located in the instructions.md file_ 
 
 # Project Introduction/Description
 
