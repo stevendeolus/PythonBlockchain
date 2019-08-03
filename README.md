@@ -35,3 +35,34 @@ By building a proof of concept blockchain, students and legal practitioners will
 
 [^5]:
      “Where Does Blockchain Fit in Digital Rights Management? - IPWatchdog” (IPWatchdog.com | Patents & Patent LawMarch 28, 2018) <https://www.ipwatchdog.com/2018/02/06/blockchain-fit-digital-rights-management/id=93024/> accessed June 18, 2019
+___
+### Credits
+___
+ <img align="left" src="https://attachments.office.net/owa/steven.deolus@brooklaw.edu/service.svc/s/GetAttachmentThumbnail?id=AAMkAGE2MTYxZDM2LWQ3ZTAtNDcwNS04YmRkLTJhMGU5ZWNhYWFmMABGAAAAAADGcyipP10STI3y%2B%2FqvwmqGBwBS%2FHjRu8fJRp12ss4KLnrMAAAAAAEMAABS%2FHjRu8fJRp12ss4KLnrMAALI%2F9rZAAABEgAQAKRfpukbLeFHtrcW2BZtaKY%3D&thumbnailType=2&owa=outlook.office365.com&scriptVer=2019072901.13&X-OWA-CANARY=DXyik-hTckmkDRx8gRvXDNBuo0DwF9cYKXJVmUVYhvapyr1ubmsPnsM7R1nVcVjodve-7b57TiY.&token=eyJhbGciOiJSUzI1NiIsImtpZCI6IjA2MDBGOUY2NzQ2MjA3MzdFNzM0MDRFMjg3QzQ1QTgxOENCN0NFQjgiLCJ4NXQiOiJCZ0Q1OW5SaUJ6Zm5OQVRpaDhSYWdZeTN6cmciLCJ0eXAiOiJKV1QifQ.eyJ2ZXIiOiJFeGNoYW5nZS5DYWxsYmFjay5WMSIsImFwcGN0eHNlbmRlciI6Ik93YURvd25sb2FkQGRiMjc3ODk4LWY1MDItNDZjNi1hN2UxLWFmMzFjMzMzZGIzNiIsImFwcGN0eCI6IntcIm1zZXhjaHByb3RcIjpcIm93YVwiLFwicHJpbWFyeXNpZFwiOlwiUy0xLTUtMjEtNjEyNDYyMzE0LTM2NzgyNzk0ODItMzUxNTg4OTc0OC0yNTQ2NjU0XCIsXCJwdWlkXCI6XCIxMTUzNzY1OTMyMDgzNTU4ODIyXCIsXCJvaWRcIjpcIjdmZDVjNmIxLTgxOGEtNGEwYS05MjhmLWZiMjM0NzgxZDVkY1wiLFwic2NvcGVcIjpcIk93YURvd25sb2FkXCJ9IiwibmJmIjoxNTY0ODIyNDkwLCJleHAiOjE1NjQ4MjMwOTAsImlzcyI6IjAwMDAwMDAyLTAwMDAtMGZmMS1jZTAwLTAwMDAwMDAwMDAwMEBkYjI3Nzg5OC1mNTAyLTQ2YzYtYTdlMS1hZjMxYzMzM2RiMzYiLCJhdWQiOiIwMDAwMDAwMi0wMDAwLTBmZjEtY2UwMC0wMDAwMDAwMDAwMDAvYXR0YWNobWVudHMub2ZmaWNlLm5ldEBkYjI3Nzg5OC1mNTAyLTQ2YzYtYTdlMS1hZjMxYzMzM2RiMzYifQ.jtfF4KQ_Qbo1KPmE4pYhvNXJ4lWpgxTvnWIfDW85f1DS8cJEZ75f7TbctMecNv0tMLsWgt_2GN3T4WjyeUnxy-ZnwS6h6QJdviS4G5jbOMSkoKM49iqwyxAbPiJRn49WqcXK3KHsHO84OhIz4cEdV1m-D_yY5iNDUsX0mUmloQ-tMmPQgqXqhRqKkjPRw8P7ly0CpVWzH4ACofVutsmsxFSNlssqTnfUqUApMhrDDsMSaH5fLqsqa0W4tBEOPIGINuirGZRef16t5fyNq95cxq7ZTL1a0gd_zG-sUxnbguuZJNT-pw7k0bKKEHnnTiOKU6Jpl_ZRmnPJgbMDAaZfDQ&animation=true" width="20%" height="20%">
+
+<br/>
+
+#### Project Lead: 
+*Steven Deolus* 
+<br/>Linkedin: https://www.linkedin.com/in/8bitcoder
+
+
+<br/><br/>
+
+<img align="left" src="https://www.icrisat.org/wp-content/uploads/2017/05/image-pending.jpg" width="20%" height="20%">
+
+<br/>
+
+#### Project Contributor: 
+*Sydney Abualy*
+<br/>Linkedin: N/A
+
+<br/><br/>
+
+<img align="left" src="https://www.icrisat.org/wp-content/uploads/2017/05/image-pending.jpg" width="20%" height="20%">
+
+<br/>
+
+#### Project Contributor: 
+*Claire Wasserman*
+<br/>Linkedin: https://www.linkedin.com/in/claire-wasserman-87977214
