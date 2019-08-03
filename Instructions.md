@@ -1,4 +1,4 @@
-To get started visit the Demo @ http://bit.ly/DRMLegal
+To get started visit the Demo @ https://bluevioletunfortunatezettabyte-1.8bitc0der.repl.run/ or http://bit.ly/DRMLegal
 
 1. Follow the steps on the black screen. 
     1. Type a. 
