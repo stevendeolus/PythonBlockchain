@@ -38,11 +38,12 @@ By building a proof of concept blockchain, students and legal practitioners will
 ___
 ### Credits
 ___
-<img align="left" src="https://www.icrisat.org/wp-content/uploads/2017/05/image-pending.jpg" width="20%" height="20%">
+<img align="left" src="https://user-images.githubusercontent.com/45675867/62410076-b00e6a00-b595-11e9-8885-d09cb8fa91c3.png" width="20%" height="20%">
 
 #### Project Lead: 
 *Steven Deolus* 
 <br/>Linkedin: https://www.linkedin.com/in/8bitcoder
+<br/>
 <br/>
 <br/>
 ##### Bio: 
