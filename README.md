@@ -50,24 +50,26 @@ ___
 ##### Bio: 
 Steven Deolus is a law student with a practical focus at the intersection of technology and the law. The areas of Steven’s studies and practical work includes copyright, trademarks, privacy law, media law, cybersecurity, emerging areas of intellectual property, and employment law. Additionally, Steven focuses on the legal implications and risk associated with disruptive technologies such as blockchain, virtual reality, and artificial intelligence. Steven uses his background of 12 years’ experience in the tech sector along with his immersive set of tech skills to support his pursuit of his passions at the intersection of technology and the law. Steven received his Bachelor of Arts from SUNY University at Buffalo in Political Science and is currently pursuing his Juris Doctor from Brooklyn Law School. 
 
-
-
-
-<br/><br/>
-
-<img align="left" src="https://www.icrisat.org/wp-content/uploads/2017/05/image-pending.jpg" width="20%" height="20%">
-
+<br/>
 <br/>
 
-#### Project Contributor: 
-*Sydney Abualy*
-<br/>Linkedin: N/A
+
+| Project Lead: *Steven Deolus* | Bio |
+| ----------- | --- |
+| <img align="center" src="https://user-images.githubusercontent.com/45675867/62410076-b00e6a00-b595-11e9-8885-d09cb8fa91c3.png" width="80%" height="35%"> </br> </br> | Steven Deolus is a law student with a practical focus at the intersection of technology and the law. The areas of Steven’s studies and practical work includes copyright, trademarks, privacy law, media law, cybersecurity, emerging areas of intellectual property, and employment law. Additionally, Steven focuses on the legal implications and risk associated with disruptive technologies such as blockchain, virtual reality, and artificial intelligence. Steven uses his background of 12 years’ experience in the tech sector along with his immersive set of tech skills to support his pursuit of his passions at the intersection of technology and the law. Steven received his Bachelor of Arts from SUNY University at Buffalo in Political Science and is currently pursuing his Juris Doctor from Brooklyn Law School.  |
+| Linkedin: https://www.linkedin.com/in/8bitcoder  |  |
 
 <br/><br/>
+| Project Contributor: *Sydney Abualy* | Bio |
+| ----------- | --- |
+| <img align="center" src="https://www.icrisat.org/wp-content/uploads/2017/05/image-pending.jpg" width="80%" height="35%"> </br> </br> | Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce interdum, leo a mattis vulputate, est erat ornare dui, vitae sagittis ante ipsum eget dui. Vivamus sed leo nec ante mattis aliquam. Proin aliquet aliquam justo, eget tempus nulla auctor a. In eleifend, nisl quis commodo tristique, metus ipsum varius libero, vitae sollicitudin sem arcu congue tortor. Nullam bibendum augue vel magna blandit consequat. Sed ut aliquam sapien. Nunc sed risus sed est hendrerit aliquam eget eu sem. Mauris lacinia nulla vitae nulla fringilla, in volutpat tellus faucibus. Pellentesque mattis metus sem,  |
+| Linkedin: N/A  |  |
 
-<img align="left" src="https://www.icrisat.org/wp-content/uploads/2017/05/image-pending.jpg" width="20%" height="20%">
-
-<br/>
+<br/><br/>
+| Project Contributor: *Claire Wasserman* | Bio |
+| ----------- | --- |
+| <img align="center" src="https://www.icrisat.org/wp-content/uploads/2017/05/image-pending.jpg" width="80%" height="35%"> </br> </br> | Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce interdum, leo a mattis vulputate, est erat ornare dui, vitae sagittis ante ipsum eget dui. Vivamus sed leo nec ante mattis aliquam. Proin aliquet aliquam justo, eget tempus nulla auctor a. In eleifend, nisl quis commodo tristique, metus ipsum varius libero, vitae sollicitudin sem arcu congue tortor. Nullam bibendum augue vel magna blandit consequat. Sed ut aliquam sapien. Nunc sed risus sed est hendrerit aliquam eget eu sem. Mauris lacinia nulla vitae nulla fringilla, in volutpat tellus faucibus. Pellentesque mattis metus sem,  |
+| Linkedin: https://www.linkedin.com/in/claire-wasserman-87977214  |  |
 
 #### Project Contributor: 
 *Claire Wasserman*
